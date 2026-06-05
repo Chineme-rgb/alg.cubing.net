@@ -44,7 +44,7 @@ Built on [`alg.js`](https://github.com/cubing/alg.js) and [`twisty.js`](https://
 
 - [cube.garron.us/tools/index.htm](http://cube.garron.us/tools/index.htm)
   - Firefox search engine.
-  - Announced [in the speedsolvingrubikscube Yahoo! group](https://groups.yahoo.com/neo/groups/speedsolvingrubikscube/conversations/topics/36618) on June 25, 2007.
+  - Announced [in the speedsolvingrubikscube Yahoo! group](https://www.cubinghistory.com/archive/YahooGroups/speedsolvingrubikscube/speedsolvingrubikscube_2007_Part3.html#msg-184) on June 25, 2007.
 - [cube.garron.us/applets/SiGN_test.htm](http://cube.garron.us/applets/SiGN_test.htm)
 - [alg.garron.us/SiGN_test.htm](http://alg.garron.us/SiGN_test.htm)
   - This is actually *still* the source that is served from [alg.garron.us](http://alg.garron.us/)
